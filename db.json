@@ -1,24 +1,26 @@
-[
+{
+  "addresses": [
     {
-        "id": "65rkmff24b",
-        "type": "RESIDENTIAL",
-        "street1": "52 Jalan Bahagia",
-        "street2": "Taman Bahagia",
-        "postcode": "40480",
-        "city": "Petaling Jaya",
-        "state": "Selangor",
-        "country": "Malaysia",
-        "countryCode": "MY"
+      "id": "65rkmff24b",
+      "type": "RESIDENTIAL",
+      "street1": "52 Jalan Bahagia",
+      "street2": "Taman Bahagia",
+      "postcode": "40480",
+      "city": "Petaling Jaya",
+      "state": "Selangor",
+      "country": "Malaysia",
+      "countryCode": "MY"
     },
     {
-        "id": "oen8q6pyp8",
-        "type": "OFFICE",
-        "street1": "9278 Jalan Kerjaya",
-        "street2": "Persiaran Wawasan",
-        "postcode": "40480",
-        "city": "Petaling Jaya",
-        "state": "Selangor",
-        "country": "Malaysia",
-        "countryCode": "MY"
+      "id": "oen8q6pyp8",
+      "type": "OFFICE",
+      "street1": "9278 Jalan Kerjaya",
+      "street2": "Persiaran Wawasan",
+      "postcode": "40480",
+      "city": "Petaling Jaya",
+      "state": "Selangor",
+      "country": "Malaysia",
+      "countryCode": "MY"
     }
-]
+  ]
+}
