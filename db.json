@@ -3,7 +3,10 @@
     {
       "id": "65rkmff24b",
       "type": "HOME",
-      "street1": "52 Jalan Bahagia",
+      "unit": "52",
+      "block": "",
+      "level: "",
+      "street1": "Jalan Bahagia",
       "street2": "Taman Bahagia",
       "postcode": "40480",
       "city": "Petaling Jaya",
@@ -13,7 +16,10 @@
     {
       "id": "oen8q6pyp8",
       "type": "OFFICE",
-      "street1": "9278 Jalan Kerjaya",
+      "unit": "9278",
+      "block": "",
+      "level: "",
+      "street1": "Jalan Kerjaya",
       "street2": "Persiaran Wawasan",
       "postcode": "40480",
       "city": "Petaling Jaya",
