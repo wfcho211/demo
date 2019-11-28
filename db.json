@@ -3,7 +3,7 @@
     {
       "id": "65rkmff24b",
       "type": "HOME",
-      "unit": "52", 
+      "unit": "32", 
       "street1": "Jalan Bahagia",
       "street2": "Taman Bahagia",
       "postcode": "40480",
@@ -14,7 +14,9 @@
     {
       "id": "oen8q6pyp8",
       "type": "OFFICE",
-      "unit": "9278",
+      "unit": "5A",
+      "block": "Tower A",
+      "Level": "Level 5",
       "street1": "Jalan Kerjaya",
       "street2": "Persiaran Wawasan",
       "postcode": "40480",
