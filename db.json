@@ -16,7 +16,7 @@
       "type": "OFFICE",
       "unit": "5A",
       "block": "Tower A",
-      "Level": "Level 5",
+      "level": "Level 5",
       "street1": "Jalan Kerjaya",
       "street2": "Persiaran Wawasan",
       "postcode": "40480",
