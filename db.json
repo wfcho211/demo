@@ -20,7 +20,8 @@
       "maritalStatus": "SINGLE",
       "race": "CHINESE",
       "religion": "BUDDHIST",
-      "phoneNumbers": {
+      "phone": {
+          "type": "MOBILE",
           "countryCode": "60",
           "number": "123316155",
           "status": "1"
