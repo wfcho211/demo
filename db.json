@@ -1,33 +1,36 @@
 {
-  "id": "78rkmff24g",
-  "identification": {
-      "type": "NRIC",
-      "no": "801118-05-5408"
+  "personalInfo": {
+      "id": "78rkmff24g",
+      "identification": {
+          "type": "NRIC",
+          "no": "801118-05-5408"
+      },
+      "name": {
+          "title": "MR",
+          "first": "Rubecca",
+          "middle": "",
+          "last": "Soh"
+      },
+      "email": {
+          "address": "aileng.tan@gmail.com",
+          "status": 1
+      },
+      "gender": "FEMALE",
+      "dob": "2019-11-18",
+      "maritalStatus": "SINGLE",
+      "race": "CHINESE",
+      "religion": "BUDDHIST",
+      "phoneNumbers": {
+          "countryCode": "60",
+          "number": "123316155",
+          "status": "1"
+      },
+      "addresses": ["65rkmff24b", "oen8q6pyp8"],
+      "organisations": [],
+      "practitioners": [],
+      "careGivers": [],
+      "emergencyContacts": []
   },
-  "name": {
-      "title": "MR",
-      "first": "Rubecca",
-      "middle": "",
-      "last": "Soh"
-  },
-  "email": {
-      "address": "aileng.tan@gmail.com",
-      "status": 1
-  },
-  "gender": "FEMALE",
-  "dob": "2019-11-18",
-  "maritalStatus": "SINGLE",
-  "race": "CHINESE",
-  "religion": "BUDDHIST",
-  "phoneNumbers": {
-      "countryCode": "60",
-      "number": "123316155",
-      "status": "1"
-  },
-  "organisations": [],
-  "practitioners": [],
-  "careGivers": [],
-  "emergencyContacts": [],
   "addresses": [
     {
       "id": "65rkmff24b",
