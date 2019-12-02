@@ -1,6 +1,8 @@
 {
   "personalInfo": {
       "id": "78rkmff24g",
+      "picture": 'https://randomuser.me/api/portraits/women/48.jpg',
+      "bloodType": "O POSITIVE",
       "identification": {
           "type": "NRIC",
           "no": "801118-05-5408"
