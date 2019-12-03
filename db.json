@@ -5,7 +5,7 @@
       "bloodType": "O POSITIVE",
       "identification": {
           "type": "NRIC",
-          "no": "801118-05-5408"
+          "no": "801118055408"
       },
       "name": {
           "title": "MS",
@@ -18,7 +18,7 @@
           "status": 1
       },
       "gender": "FEMALE",
-      "dob": "2019-11-18",
+      "dob": "1983-12-18",
       "maritalStatus": "SINGLE",
       "race": "CHINESE",
       "religion": "BUDDHIST",
