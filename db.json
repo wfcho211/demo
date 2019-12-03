@@ -29,12 +29,7 @@
           "countryCode": "60",
           "number": "123316155",
           "status": "1"
-      },
-      "addresses": ["65rkmff24b", "oen8q6pyp8"],
-      "organisations": [],
-      "practitioners": [],
-      "careGivers": [],
-      "emergencyContacts": []
+      }
   },
   "addresses": [
     {
