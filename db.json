@@ -1,5 +1,5 @@
 {
-  "personalInfo": {
+  "info": {
       "id": "78rkmff24g",
       "picture": "https://randomuser.me/api/portraits/women/48.jpg",
       "bloodType": "O POSITIVE",
@@ -22,7 +22,7 @@
       "maritalStatus": "SINGLE",
       "race": "CHINESE",
       "religion": "BUDDHIST",
-      "nationality": "MALAYSIAN"
+      "nationality": "MALAYSIAN",
       "phone": {
           "type": "MOBILE",
           "countryCode": "60",
