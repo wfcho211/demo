@@ -22,6 +22,7 @@
       "maritalStatus": "SINGLE",
       "race": "CHINESE",
       "religion": "BUDDHIST",
+      "nationality": "MALAYSIAN"
       "phone": {
           "type": "MOBILE",
           "countryCode": "60",
